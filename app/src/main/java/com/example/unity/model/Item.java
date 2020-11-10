@@ -38,4 +38,6 @@ public class Item {
     public String getTitle() {
         return title;
     }
+
+    // Todo create class to save iteam object and then create views to create and show the iteams in list 
 }

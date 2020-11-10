@@ -39,5 +39,5 @@ public class Item {
         return title;
     }
 
-    // Todo create class to save iteam object and then create views to create and show the iteams in list 
+    // Todo create class to save iteam object and then create views to create and show the iteams in list .
 }
